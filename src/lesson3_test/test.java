@@ -1,6 +1,6 @@
 package lesson3_test;
 
-import lesson3.Man;
+
 
 public class test {
 
